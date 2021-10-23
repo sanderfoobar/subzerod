@@ -12,7 +12,7 @@ setup(
        subzerod=subzerod.cli:cli_run
     ''',
     url='https://github.com/sanderfoobar/subzerod',
-    license='BSD-3.0',
+    license='WTFPL',
     description='Subdomain enumeration tool',
     classifiers=[
         'Environment :: Console',

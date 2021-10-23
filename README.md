@@ -1,7 +1,5 @@
 # SubZerod
 
-SubZerod does 2 things:
-
 - Discover sub-domains given a domain name
 - Discover domain(s) given an IPv4 address
 
